@@ -12,3 +12,5 @@ payload:
   - DOMAIN-SUFFIX,pub1cm1.emby.wtf
   - DOMAIN-SUFFIX,pub1cm2.emby.wtf
   - DOMAIN-SUFFIX,pub1cm3.emby.wtf
+  - DOMAIN-SUFFIX,emby.misakaf.xyz
+  - DOMAIN-SUFFIX,embyaz.misakaf.xyz
