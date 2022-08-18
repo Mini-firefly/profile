@@ -14,3 +14,6 @@ payload:
   - DOMAIN-SUFFIX,pub1cm3.emby.wtf
   - DOMAIN-SUFFIX,emby.misakaf.xyz
   - DOMAIN-SUFFIX,embyaz.misakaf.xyz
+  - DOMAIN-SUFFIX,emby.misakaf.org
+  - DOMAIN-SUFFIX,emby.kim
+  - DOMAIN-SUFFIX,ha.emby.kim
