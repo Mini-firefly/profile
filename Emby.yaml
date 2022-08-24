@@ -1,19 +1,16 @@
 # NAME: Emby
-# UPDATED: 2022-04-03
+# UPDATED: 2022-08-24
 payload:
+# > 卷毛鼠
   - DOMAIN-SUFFIX,cf.jmsooo.com
-  - DOMAIN-SUFFIX,usa1.jmsooo.com
-  - DOMAIN-SUFFIX,usa2.jmsooo.com
-  - DOMAIN-SUFFIX,sg1.jmsooo.com
-  - DOMAIN-SUFFIX,sg2.jmsooo.com
+  - DOMAIN-SUFFIX,ha.jmsooo.com
+# > 终点站
   - DOMAIN-SUFFIX,pub1.emby.wtf
   - DOMAIN-SUFFIX,,pub2.emby.wtf
   - DOMAIN-SUFFIX,pub3.emby.wtf
-  - DOMAIN-SUFFIX,pub1cm1.emby.wtf
-  - DOMAIN-SUFFIX,pub1cm2.emby.wtf
-  - DOMAIN-SUFFIX,pub1cm3.emby.wtf
-  - DOMAIN-SUFFIX,emby.misakaf.xyz
-  - DOMAIN-SUFFIX,embyaz.misakaf.xyz
-  - DOMAIN-SUFFIX,emby.misakaf.org
+# > misakaf
+  - DOMAIN-SUFFIX,cf.misakaf.org
+  - DOMAIN-SUFFIX,4837.misakaf.org
+# > 猫熊Emby
   - DOMAIN-SUFFIX,emby.kim
   - DOMAIN-SUFFIX,ha.emby.kim
