@@ -1,6 +1,6 @@
 
 # NAME: Emby
-# UPDATED: 2022-04-04 
+# UPDATED: 2022-08-24 
 # > 卷毛鼠
 HOST-SUFFIX,cf.jmsooo.com,Emby
 HOST-SUFFIX,ha.jmsooo.com,Emby
@@ -11,6 +11,6 @@ HOST-SUFFIX,pub3.emby.wtf,Emby
 # > misakaf
 HOST-SUFFIX,cf.misakaf.org,Emby
 HOST-SUFFIX,4837.misakaf.org,Emby
-# > 猫熊
+# > 猫熊Emby
 HOST-SUFFIX,emby.kim,Emby
 HOST-SUFFIX,ha.emby.kim,Emby
