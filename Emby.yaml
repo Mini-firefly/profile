@@ -17,3 +17,5 @@
   - DOMAIN-SUFFIX,aaa.ax
 # > Polo Emby
   - DOMAIN-SUFFIX,cu.poloemby.xyz
+# > 卡戎 Emby
+  - DOMAIN-SUFFIX,play.charontv.com
