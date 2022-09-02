@@ -3,18 +3,4 @@
 # > 卷毛鼠
   - DOMAIN-SUFFIX,cf.jmsooo.com
   - DOMAIN-SUFFIX,ha.jmsooo.com
-# > 终点站
-  - DOMAIN-SUFFIX,pub1.emby.wtf
-  - DOMAIN-SUFFIX,,pub2.emby.wtf
-  - DOMAIN-SUFFIX,pub3.emby.wtf
-# > misakaf
-  - DOMAIN-SUFFIX,cf.misakaf.org
-# > 猫熊Emby
-  - DOMAIN-SUFFIX,emby.kim
-  - DOMAIN-SUFFIX,ha.emby.kim
-# > Misty Emby
-  - DOMAIN-SUFFIX,aaa.ax
-# > Polo Emby
-  - DOMAIN-SUFFIX,cu.poloemby.xyz
-# > 卡戎 Emby
-  - DOMAIN-SUFFIX,play.charontv.com
+
