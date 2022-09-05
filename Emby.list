@@ -20,4 +20,6 @@ HOST-SUFFIX,aaa.ax,Emby
 HOST-SUFFIX,cu.poloemby.xyz,Emby 
 # > 卡戎 Emby
 HOST-SUFFIX,play.charontv.com,Emby 
+# > Peach Emby
+HOST-SUFFIX,embymv.tk,Emby 
 
