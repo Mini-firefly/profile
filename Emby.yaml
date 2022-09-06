@@ -13,4 +13,6 @@ payload:
   - DOMAIN-SUFFIX,aaa.ax
   - DOMAIN-SUFFIX,cu.poloemby.xyz
   - DOMAIN-SUFFIX,play.charontv.com
+  - IP-CIDR,5.180.76.4/32
   - DOMAIN-SUFFIX,embymv.tk
+  
