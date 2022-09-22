@@ -16,4 +16,6 @@ payload:
   - DOMAIN-SUFFIX,play.charontv.com
   - IP-CIDR,202.8.9.69/32
   - DOMAIN-SUFFIX,embymv.tk
+  - DOMAIN-SUFFIX,py.embyplus.club
+  - DOMAIN-SUFFIX,py2.embyplus.club
   
