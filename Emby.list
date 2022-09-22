@@ -24,4 +24,7 @@ HOST-SUFFIX,play.charontv.com,Emby
 IP-CIDR,202.8.9.69/32,Emby
 # > Peach Emby
 HOST-SUFFIX,embymv.tk,Emby 
+# > 品云 Emby
+HOST-SUFFIX,py.embyplus.club,Emby
+HOST-SUFFIX,py2.embyplus.club,Emby 
 
