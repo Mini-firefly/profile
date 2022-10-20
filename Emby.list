@@ -16,9 +16,10 @@ HOST-SUFFIX,emby.kim,Emby
 HOST-SUFFIX,ha.emby.kim,Emby
 # > Misty Emby
 HOST-SUFFIX,aaa.ax,Emby 
+HOST-SUFFIX,hk.aaa.ax,Emby
 # > Polo Emby
 HOST-SUFFIX,cu.poloemby.xyz,Emby 
-HOST-SUFFIX,zf.poloemby.xyz,Emby 
+HOST-SUFFIX,sfzf2.poloemby.xyz,Emby 
 # > 卡戎 Emby
 HOST-SUFFIX,play.charontv.com,Emby 
 IP-CIDR,202.8.9.69/32,Emby
@@ -27,4 +28,5 @@ HOST-SUFFIX,embymv.tk,Emby
 # > 品云 Emby
 HOST-SUFFIX,py.embyplus.club,Emby
 HOST-SUFFIX,py2.embyplus.club,Emby 
-
+# > Catfish Emby
+HOST-SUFFIX,catfishemby.club,Emby
