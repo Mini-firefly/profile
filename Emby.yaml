@@ -11,11 +11,12 @@ payload:
   - DOMAIN-SUFFIX,emby.kim
   - DOMAIN-SUFFIX,ha.emby.kim
   - DOMAIN-SUFFIX,aaa.ax
+  - DOMAIN-SUFFIX,ha.aaa.ax
   - DOMAIN-SUFFIX,cu.poloemby.xyz
-  - DOMAIN-SUFFIX,zf.poloemby.xyz
+  - DOMAIN-SUFFIX,sfzf2.poloemby.xyz
   - DOMAIN-SUFFIX,play.charontv.com
   - IP-CIDR,202.8.9.69/32
   - DOMAIN-SUFFIX,embymv.tk
   - DOMAIN-SUFFIX,py.embyplus.club
   - DOMAIN-SUFFIX,py2.embyplus.club
-  
+  - DOMAIN-SUFFIX,catfishemby.club
