@@ -8,6 +8,7 @@ HOST-SUFFIX,ha.jmsooo.com,Emby
 HOST-SUFFIX,pub1.emby.wtf,Emby
 HOST-SUFFIX,pub2.emby.wtf,Emby
 HOST-SUFFIX,pub3.emby.wtf,Emby
+HOST-SUFFIX,pub4.emby.wtf,Emby
 # > misakaf
 HOST-SUFFIX,cf.misakaf.org,Emby
 HOST-SUFFIX,4837.misakaf.org,Emby
@@ -18,13 +19,18 @@ HOST-SUFFIX,ha.emby.kim,Emby
 HOST-SUFFIX,aaa.ax,Emby 
 HOST-SUFFIX,hk.aaa.ax,Emby
 # > Polo Emby
-HOST-SUFFIX,cu.poloemby.xyz,Emby 
-HOST-SUFFIX,sfzf2.poloemby.xyz,Emby 
+HOST-SUFFIX,df.poloemby.xyz,Emby 
+HOST-SUFFIX,zf.poloemby.xyz,Emby 
+HOST-SUFFIX,zfsg.poloemby.xyz,Emby 
+HOST-SUFFIX,happy.poloemby.xyz,Emby 
 # > 卡戎 Emby
 HOST-SUFFIX,play.charontv.com,Emby 
 IP-CIDR,202.8.9.69/32,Emby
 # > Peach Emby
 HOST-SUFFIX,embymv.tk,Emby 
+HOST-SUFFIX,emby-peach.blueseacdn.com,Emby 
+HOST-SUFFIX,sg.embymv.tk,Emby 
+HOST-SUFFIX,kr.embymv.tk,Emby 
 # > 品云 Emby
 HOST-SUFFIX,py.embyplus.club,Emby
 HOST-SUFFIX,py2.embyplus.club,Emby 
