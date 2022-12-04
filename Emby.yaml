@@ -9,8 +9,7 @@ payload:
   - DOMAIN-SUFFIX,ha.jmsooo.com
   - DOMAIN-SUFFIX,cf.misakaf.org
   - DOMAIN-SUFFIX,4837.misakaf.org
-  - DOMAIN-SUFFIX,aaa.ax
-  - DOMAIN-SUFFIX,ha.aaa.ax
+  - DOMAIN-SUFFIX,misty.ltd
   - DOMAIN-SUFFIX,emby.kim
   - DOMAIN-SUFFIX,ha.emby.kim
   - DOMAIN-SUFFIX,play.charontv.com
