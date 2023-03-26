@@ -13,7 +13,6 @@ payload:
   - DOMAIN-SUFFIX,emby.kim
   - DOMAIN-SUFFIX,ha.emby.kim
   - DOMAIN-SUFFIX,play.charontv.com
-  - IP-CIDR,202.8.9.69/32
   - DOMAIN-SUFFIX,df.poloemby.xyz
   - DOMAIN-SUFFIX,cu.poloemby.xyz
   - DOMAIN-SUFFIX,nlz.poloemby.xyz
