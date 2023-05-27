@@ -1,30 +1,26 @@
 # NAME: Emby
-# UPDATED: 2022-08-24
+# AUTHOR: justdoiting
+# REPO: https://github.com/justdoiting/emby-rules
+# UPDATED: 2023-04-07 14:52:15
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 3
+# DOMAIN-SUFFIX: 34
+# PROCESS-NAME: 1
+# TOTAL: 39
 payload:
   - DOMAIN-SUFFIX,pub1.emby.wtf
   - DOMAIN-SUFFIX,,pub2.emby.wtf
   - DOMAIN-SUFFIX,pub3.emby.wtf
   - DOMAIN-SUFFIX,pub4.emby.wtf
   - DOMAIN-SUFFIX,cf.jmsooo.com
-  - DOMAIN-SUFFIX,ha.jmsooo.com
-  - DOMAIN-SUFFIX,cf.misakaf.org
-  - DOMAIN-SUFFIX,4837.misakaf.org
+  - DOMAIN-SUFFIX,emby2.misakaf.org
+  - DOMAIN-SUFFIX,cdn2.misakaf.org
   - DOMAIN-SUFFIX,misty.ltd
-  - DOMAIN-SUFFIX,emby.kim
-  - DOMAIN-SUFFIX,ha.emby.kim
   - DOMAIN-SUFFIX,play.charontv.com
-  - DOMAIN-SUFFIX,df.poloemby.xyz
-  - DOMAIN-SUFFIX,cu.poloemby.xyz
-  - DOMAIN-SUFFIX,nlz.poloemby.xyz
-  - DOMAIN-SUFFIX,happy.poloemby.xyz
   - DOMAIN-SUFFIX,py.embyplus.club
   - DOMAIN-SUFFIX,py2.embyplus.club
   - DOMAIN-SUFFIX,embymv.tk
-  - DOMAIN-SUFFIX,us.embymv.tk
+  - DOMAIN-SUFFIX,jp.embymv.tk
   - DOMAIN-SUFFIX,kr.embymv.tk
-  - DOMAIN-SUFFIX,emby-peach.blueseacdn.com
-  - DOMAIN-SUFFIX,catfishemby.club
-  - DOMAIN-SUFFIX,mjjemby.org
   - DOMAIN-SUFFIX,infinityfly.top
-
-
+  - DOMAIN-SUFFIX,bili.bili.rip
