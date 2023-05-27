@@ -8,33 +8,21 @@ HOST-SUFFIX,pub3.emby.wtf,Emby
 HOST-SUFFIX,pub4.emby.wtf,Emby
 # > 卷毛鼠
 HOST-SUFFIX,cf.jmsooo.com,Emby
-HOST-SUFFIX,ha.jmsooo.com,Emby
 # > misakaf
-HOST-SUFFIX,cf.misakaf.org,Emby
-HOST-SUFFIX,4837.misakaf.org,Emby
+HOST-SUFFIX,emby2.misakaf.org,Emby
+HOST-SUFFIX,cdn2.misakaf.org,Emby
 # > Misty Emby
 HOST-SUFFIX,misty.ltd,Emby 
-# > 猫熊Emby
-HOST-SUFFIX,emby.kim,Emby
-HOST-SUFFIX,ha.emby.kim,Emby
 # > 卡戎 Emby
 HOST-SUFFIX,play.charontv.com,Emby 
-# > Polo Emby
-HOST-SUFFIX,df.poloemby.xyz,Emby 
-HOST-SUFFIX,cu.poloemby.xyz,Emby 
-HOST-SUFFIX,nlz.poloemby.xyz,Emby 
-HOST-SUFFIX,happy.poloemby.xyz,Emby 
 # > 品云 Emby
 HOST-SUFFIX,py.embyplus.club,Emby
 HOST-SUFFIX,py2.embyplus.club,Emby 
 # > Peach Emby
 HOST-SUFFIX,embymv.tk,Emby 
-HOST-SUFFIX,emby-peach.blueseacdn.com,Emby 
-HOST-SUFFIX,us.embymv.tk,Emby 
+HOST-SUFFIX,jp.embymv.tk,Emby 
 HOST-SUFFIX,kr.embymv.tk,Emby 
-# > Catfish Emby
-HOST-SUFFIX,catfishemby.club,Emby
-# > MJJ Emby
-HOST-SUFFIX,mjjemby.org,Emby
 # > Infinityfly Emby
 HOST-SUFFIX,infinityfly.top,Emby
+# > hxd Emby
+HOST-SUFFIX,bili.bili.rip,Emby
