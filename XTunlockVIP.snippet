@@ -1,0 +1,16 @@
+#!name=解锁VIP服务合集
+#!desc=(R)当遇到部分软件无法联网时，记得取消勾选该重写
+#!author=fmz200
+#!homepage=https://github.com/fmz200/wool_scripts
+#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
+#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/unlock/unlockVIP.snippet
+#!tg-group=https://t.me/lanjieguanggao
+#!date=2023.09.03 11:21
+#############################################
+
+hostname = commerce-api-lf.faceu.mobi, commerce-api-lq.faceu.mobi
+
+
+# >>>>>>>>>>>>>>> ✅ X ✅ <<<<<<<<<<<<<<
+# > 醒图 解锁VIP
+^https:\/\/commerce-api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info url script-request-header https://raw.githubusercontent.com/gjwj666/qx/main/XT.js
