@@ -17,8 +17,8 @@ payload:
   - DOMAIN-SUFFIX,cdn2.misakaf.org
   - DOMAIN-SUFFIX,misty.ltd
   - DOMAIN-SUFFIX,play.charontv.com
-  - DOMAIN-SUFFIX,py.embyplus.club
-  - DOMAIN-SUFFIX,py2.embyplus.club
+  - DOMAIN-SUFFIX,de.mjjemby.org
+  - DOMAIN-SUFFIX,cf.mjjemby.org
   - DOMAIN-SUFFIX,embymv.tk
   - DOMAIN-SUFFIX,jp.embymv.tk
   - DOMAIN-SUFFIX,kr.embymv.tk
