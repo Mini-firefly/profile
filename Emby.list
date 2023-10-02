@@ -15,9 +15,9 @@ HOST-SUFFIX,cdn2.misakaf.org,Emby
 HOST-SUFFIX,misty.ltd,Emby 
 # > 卡戎 Emby
 HOST-SUFFIX,play.charontv.com,Emby 
-# > 品云 Emby
-HOST-SUFFIX,py.embyplus.club,Emby
-HOST-SUFFIX,py2.embyplus.club,Emby 
+# > MJJ Emby
+HOST-SUFFIX,de.mjjemby.org,Emby
+HOST-SUFFIX,cf.mjjemby.org,Emby 
 # > Peach Emby
 HOST-SUFFIX,embymv.tk,Emby 
 HOST-SUFFIX,jp.embymv.tk,Emby 
