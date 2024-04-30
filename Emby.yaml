@@ -13,8 +13,7 @@ payload:
   - DOMAIN-SUFFIX,pub3.emby.wtf
   - DOMAIN-SUFFIX,pub4.emby.wtf
   - DOMAIN-SUFFIX,cf.jmsooo.com
-  - DOMAIN-SUFFIX,emby2.misakaf.org
-  - DOMAIN-SUFFIX,cdn2.misakaf.org
+  - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,misty.ltd
   - DOMAIN-SUFFIX,play.charontv.com
   - DOMAIN-SUFFIX,de.mjjemby.org
