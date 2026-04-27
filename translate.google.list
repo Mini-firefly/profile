@@ -1,6 +1,6 @@
+host, translate.google.com.hk, proxy
 host-suffix, translate.googleapis.com, proxy
 host-suffix, translate.google.com, proxy
 host-suffix, translate.google.cn, proxy
 host-suffix, translate-pa.googleapis.com, proxy
 host-suffix, googleapis.com, proxy
-host, translate.google.com.hk, proxy
